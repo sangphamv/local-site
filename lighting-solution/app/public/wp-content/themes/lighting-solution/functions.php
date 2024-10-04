@@ -40,6 +40,8 @@ if (function_exists('add_filter')) {
             'view cart' => 'Xem giỏ hàng',
             'checkout' => 'Thanh toán',
             'Contact information' => 'Thông tin liên hệ',
+            'product' => 'Sản phẩm',
+
         );
 
         foreach ($translations as $original => $translated) {
