@@ -1,0 +1,526 @@
+0000.000 (0) Opened log file at time: Thu, 26 Sep 2024 12:50:42 +0000 on http://envisia.local
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.5 WP: 6.6.2 PHP: 8.1.29 (cgi-fcgi, Windows NT DESKTOP-G40MDK9 10.0 build 22631 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.8M | 16M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 86865.7 MB
+0000.019 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.023 (0) Semaphore (fd, wp_options) being initialised
+0000.035 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.044 (0) Set semaphore last lock (fd) time to 2024-09-26 12:50:42
+0000.050 (0) Semaphore lock (fd) complete
+0000.065 (0) Backup run: resumption=0, nonce=6a7c9c02506d, file_nonce=6a7c9c02506d begun at=1727355042 (0s ago), job type=backup
+0000.071 (0) Scheduling a resumption (1) after 300 seconds (1727355342) in case this run gets aborted
+0000.095 (0) Checking if we have a zip executable available
+0000.102 (0) Creation of backups of directories: beginning
+0000.115 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.970 (0) Total entities for the zip file: 1295 directories, 7702 files (0 skipped as non-modified), 87.5 MB
+0002.004 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.034 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.063 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.097 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.126 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.155 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.186 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.217 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.246 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.277 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.281 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.2 MB, 7702 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0011.483 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1100 files added (on-disk size: 4957.6 KB)
+0011.518 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1200 files added (on-disk size: 4957.6 KB)
+0011.564 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1300 files added (on-disk size: 4957.6 KB)
+0011.594 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1400 files added (on-disk size: 4957.6 KB)
+0011.632 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1500 files added (on-disk size: 4957.6 KB)
+0011.663 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1600 files added (on-disk size: 4957.6 KB)
+0011.698 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1700 files added (on-disk size: 4957.6 KB)
+0011.731 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1800 files added (on-disk size: 4957.6 KB)
+0011.764 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 1900 files added (on-disk size: 4957.6 KB)
+0011.793 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2000 files added (on-disk size: 4957.6 KB)
+0011.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.2 MB, 7702 files batched, 1001 (2002) added so far); re-opening (prior size: 4957.6 KB)
+0014.286 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2100 files added (on-disk size: 11047.2 KB)
+0014.316 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2200 files added (on-disk size: 11047.2 KB)
+0014.346 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2300 files added (on-disk size: 11047.2 KB)
+0014.377 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2400 files added (on-disk size: 11047.2 KB)
+0014.406 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2500 files added (on-disk size: 11047.2 KB)
+0014.437 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2600 files added (on-disk size: 11047.2 KB)
+0014.467 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2700 files added (on-disk size: 11047.2 KB)
+0014.506 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2800 files added (on-disk size: 11047.2 KB)
+0014.536 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 2900 files added (on-disk size: 11047.2 KB)
+0014.567 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3000 files added (on-disk size: 11047.2 KB)
+0014.571 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7 MB, 7702 files batched, 1001 (3003) added so far); re-opening (prior size: 11047.2 KB)
+0023.968 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3100 files added (on-disk size: 13338.5 KB)
+0024.000 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3200 files added (on-disk size: 13338.5 KB)
+0024.029 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3300 files added (on-disk size: 13338.5 KB)
+0024.059 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3400 files added (on-disk size: 13338.5 KB)
+0024.088 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3500 files added (on-disk size: 13338.5 KB)
+0024.119 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3600 files added (on-disk size: 13338.5 KB)
+0024.149 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3700 files added (on-disk size: 13338.5 KB)
+0024.182 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3800 files added (on-disk size: 13338.5 KB)
+0024.215 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 3900 files added (on-disk size: 13338.5 KB)
+0024.247 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4000 files added (on-disk size: 13338.5 KB)
+0024.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.6 MB, 7702 files batched, 1001 (4004) added so far); re-opening (prior size: 13338.5 KB)
+0041.685 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4100 files added (on-disk size: 21909.9 KB)
+0041.717 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4200 files added (on-disk size: 21909.9 KB)
+0041.747 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4300 files added (on-disk size: 21909.9 KB)
+0041.778 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4400 files added (on-disk size: 21909.9 KB)
+0041.807 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4500 files added (on-disk size: 21909.9 KB)
+0041.855 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4600 files added (on-disk size: 21909.9 KB)
+0041.886 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4700 files added (on-disk size: 21909.9 KB)
+0041.915 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4800 files added (on-disk size: 21909.9 KB)
+0041.946 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 4900 files added (on-disk size: 21909.9 KB)
+0041.976 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5000 files added (on-disk size: 21909.9 KB)
+0041.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.4 MB, 7702 files batched, 1001 (5005) added so far); re-opening (prior size: 21909.9 KB)
+0047.556 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5100 files added (on-disk size: 23774.1 KB)
+0047.587 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5200 files added (on-disk size: 23774.1 KB)
+0047.620 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5300 files added (on-disk size: 23774.1 KB)
+0047.653 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5400 files added (on-disk size: 23774.1 KB)
+0047.685 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5500 files added (on-disk size: 23774.1 KB)
+0047.719 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5600 files added (on-disk size: 23774.1 KB)
+0047.754 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5700 files added (on-disk size: 23774.1 KB)
+0047.788 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5800 files added (on-disk size: 23774.1 KB)
+0047.824 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 5900 files added (on-disk size: 23774.1 KB)
+0047.859 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6000 files added (on-disk size: 23774.1 KB)
+0047.865 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.3 MB, 7702 files batched, 1001 (6006) added so far); re-opening (prior size: 23774.1 KB)
+0064.826 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6100 files added (on-disk size: 25403.7 KB)
+0064.871 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6200 files added (on-disk size: 25403.7 KB)
+0064.917 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6300 files added (on-disk size: 25403.7 KB)
+0064.957 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6400 files added (on-disk size: 25403.7 KB)
+0064.999 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6500 files added (on-disk size: 25403.7 KB)
+0065.039 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6600 files added (on-disk size: 25403.7 KB)
+0065.083 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6700 files added (on-disk size: 25403.7 KB)
+0065.128 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6800 files added (on-disk size: 25403.7 KB)
+0065.172 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 6900 files added (on-disk size: 25403.7 KB)
+0065.217 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7000 files added (on-disk size: 25403.7 KB)
+0065.224 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.9 MB, 7702 files batched, 1001 (7007) added so far); re-opening (prior size: 25403.7 KB)
+0077.863 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7100 files added (on-disk size: 28939.8 KB)
+0077.891 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7200 files added (on-disk size: 28939.8 KB)
+0077.924 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7300 files added (on-disk size: 28939.8 KB)
+0077.957 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7400 files added (on-disk size: 28939.8 KB)
+0077.988 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7500 files added (on-disk size: 28939.8 KB)
+0078.022 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7600 files added (on-disk size: 28939.8 KB)
+0078.061 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.tmp: 7700 files added (on-disk size: 28939.8 KB)
+0083.802 (0) Creating zip file manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.list-temp.tmp)
+0083.842 (0) Successfully created zip file manifest (size: 660579)
+0084.210 (0) Created plugins zip (0) - 31206.2 KB in 84.1 s (371.1 KB/s) (sha1: dd8a96cc55004c0b030c6ec26312774cf6de0f42, sha256: 6625bec141d640515aa6df4ec9171ab35ef6b3717714bb809a60facfddd87e7b)
+0084.231 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0084.237 (0) No remote despatch: user chose no remote backup service
+0084.242 (0) Recording as successfully uploaded: backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip
+0084.252 (0) Deleting zip manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip.list.tmp)
+0084.261 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0084.268 (0) Number of backup sets in history: 0; groups (db): 1
+0084.272 (0) Number of backup sets in history: 0; groups (files): 1
+0084.275 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0084.302 (0) Beginning creation of dump of themes (split every: 400 MB)
+0085.262 (0) Total entities for the zip file: 256 directories, 2111 files (0 skipped as non-modified), 24.7 MB
+0085.307 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0085.352 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0085.391 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0085.442 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0085.493 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0085.542 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0085.588 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0085.629 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0085.673 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0085.720 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0085.724 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 2111 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0096.640 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1100 files added (on-disk size: 3771.6 KB)
+0096.676 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1200 files added (on-disk size: 3771.6 KB)
+0096.712 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1300 files added (on-disk size: 3771.6 KB)
+0096.748 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1400 files added (on-disk size: 3771.6 KB)
+0096.783 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1500 files added (on-disk size: 3771.6 KB)
+0096.821 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1600 files added (on-disk size: 3771.6 KB)
+0096.857 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1700 files added (on-disk size: 3771.6 KB)
+0096.893 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1800 files added (on-disk size: 3771.6 KB)
+0096.928 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 1900 files added (on-disk size: 3771.6 KB)
+0096.964 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 2000 files added (on-disk size: 3771.6 KB)
+0096.972 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.8 MB, 2111 files batched, 1001 (2002) added so far); re-opening (prior size: 3771.6 KB)
+0108.060 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.tmp: 2100 files added (on-disk size: 14657 KB)
+0109.654 (0) Creating zip file manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.list-temp.tmp)
+0109.673 (0) Successfully created zip file manifest (size: 161956)
+0109.861 (0) Created themes zip (0) - 16826.3 KB in 25.5 s (658.6 KB/s) (sha1: 0c4f0224b27da158e379da574ed960995e71bacd, sha256: d661555c8b3ba4b151a98f056af5972e79a902c4cb752876f72b34702907575a)
+0109.876 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0109.880 (0) No remote despatch: user chose no remote backup service
+0109.887 (0) Recording as successfully uploaded: backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip
+0109.897 (0) Deleting zip manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip.list.tmp)
+0109.909 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0109.913 (0) Number of backup sets in history: 0; groups (db): 1
+0109.917 (0) Number of backup sets in history: 0; groups (files): 1
+0109.923 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0109.943 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0109.947 (0) Looking for candidates to backup in: C:\Users\SANG\Local Sites\envisia\app\public/wp-content/uploads
+0109.953 (0) finding files: 2016: adding to list (1)
+0109.965 (0) finding files: 2024: adding to list (2)
+0109.971 (0) finding files: wc-logs: adding to list (3)
+0109.976 (0) finding files: woocommerce-placeholder.png: adding to list (4)
+0109.979 (0) finding files: woocommerce_uploads: adding to list (5)
+0109.984 (0) finding files: wpcf7_uploads: adding to list (6)
+0109.990 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0110.095 (0) Total entities for the zip file: 7 directories, 115 files (0 skipped as non-modified), 10.4 MB
+0110.167 (0) Zip: backup_2024-09-26-1250_envisia_6a7c9c02506d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0110.659 (0) Creating zip file manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-uploads.zip.list-temp.tmp)
+0110.664 (0) Successfully created zip file manifest (size: 7120)
+0110.798 (0) Created uploads zip (0) - 10707.1 KB in 0.8 s (13512.3 KB/s) (sha1: 679454661f3f10d5603714187c08a3b3b0c4e086, sha256: 1a487e92658be3e775477d69f2c608da9ff8c78977f26f7d9464c1df5c9a7311)
+0110.814 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0110.821 (0) No remote despatch: user chose no remote backup service
+0110.826 (0) Recording as successfully uploaded: backup_2024-09-26-1250_envisia_6a7c9c02506d-uploads.zip
+0110.835 (0) Deleting zip manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-uploads.zip.list.tmp)
+0110.845 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0110.854 (0) Number of backup sets in history: 0; groups (db): 1
+0110.859 (0) Number of backup sets in history: 0; groups (files): 1
+0110.862 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0110.879 (0) No backup of mu-plugins: excluded by user's options
+0110.887 (0) Beginning backup of other directories found in the content directory (index: 0)
+0110.891 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0110.894 (0) Looking for candidates to backup in: C:\Users\SANG\Local Sites\envisia\app\public/wp-content
+0110.897 (0) finding files: index.php: adding to list (1)
+0110.900 (0) finding files: plugins: skipping: this is the plugins directory
+0110.903 (0) finding files: themes: skipping: this is the themes directory
+0110.906 (0) finding files: updraft: skipping: this is the updraft directory
+0110.909 (0) finding files: upgrade: skipping: excluded by options
+0110.913 (0) finding files: upgrade-temp-backup: adding to list (2)
+0110.918 (0) finding files: uploads: skipping: this is the uploads directory
+0110.922 (0) finding files: wp-cache-config.php: adding to list (3)
+0110.933 (0) Total entities for the zip file: 2 directories, 2 files (0 skipped as non-modified), 0 MB
+0110.952 (0) Creating zip file manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-others.zip.list-temp.tmp)
+0110.956 (0) Successfully created zip file manifest (size: 72)
+0110.975 (0) Created others zip (0) - 2 KB in 0 s (46.5 KB/s) (sha1: 7f0a9bbbe41a9e990c129c55e01d302e469e5a5d, sha256: 59aca66544a6e375fabfb7a2bc5d38fe9ea977e86a00a9a49cae9278d9594d42)
+0110.987 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0110.990 (0) No remote despatch: user chose no remote backup service
+0111.002 (0) Recording as successfully uploaded: backup_2024-09-26-1250_envisia_6a7c9c02506d-others.zip
+0111.011 (0) Deleting zip manifest (backup_2024-09-26-1250_envisia_6a7c9c02506d-others.zip.list.tmp)
+0111.022 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0111.029 (0) Number of backup sets in history: 0; groups (db): 1
+0111.036 (0) Number of backup sets in history: 0; groups (files): 1
+0111.039 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0111.062 (0) Saving backup status to database (elements: 8)
+0111.068 (0) Beginning creation of database dump (WordPress DB)
+0111.072 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0111.104 (0) Table wp_options: Total expected rows (via COUNT): 486
+0111.107 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.193 (0) Table wp_options: Rows added in this batch (next record: 1633): 482 (uncompressed bytes in this segment=1818478) in 0.10 seconds
+0111.210 (0) Table wp_options: finishing file(s) (2, 384.6 KB)
+0111.222 (0) Table wp_users: Total expected rows (via COUNT): 4
+0111.225 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.234 (0) Table wp_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=2027) in 0.01 seconds
+0111.252 (0) Table wp_users: finishing file(s) (2, 0.8 KB)
+0111.268 (0) Table wp_usermeta: Total expected rows (via COUNT): 83
+0111.271 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.280 (0) Table wp_usermeta: Rows added in this batch (next record: 93): 83 (uncompressed bytes in this segment=8349) in 0.02 seconds
+0111.296 (0) Table wp_usermeta: finishing file(s) (2, 2.9 KB)
+0111.312 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 87
+0111.315 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.327 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 95): 87 (uncompressed bytes in this segment=32861) in 0.02 seconds
+0111.348 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.3 KB)
+0111.370 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0111.377 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0111.399 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0111.423 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0111.427 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.442 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=792) in 0.03 seconds
+0111.463 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0111.480 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 257
+0111.485 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.504 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 257): 257 (uncompressed bytes in this segment=22848) in 0.03 seconds
+0111.521 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 2.5 KB)
+0111.538 (0) Table wp_commentmeta: Total expected rows (via COUNT): 25
+0111.542 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.556 (0) Table wp_commentmeta: Rows added in this batch (next record: 27): 25 (uncompressed bytes in this segment=5324) in 0.03 seconds
+0111.594 (0) Table wp_commentmeta: finishing file(s) (2, 1.6 KB)
+0111.623 (0) Table wp_comments: Total expected rows (via COUNT): 4
+0111.629 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.645 (0) Table wp_comments: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=3155) in 0.03 seconds
+0111.661 (0) Table wp_comments: finishing file(s) (2, 1 KB)
+0111.674 (0) Table wp_links: Total expected rows (via COUNT): 0
+0111.685 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1508) in 0.01 seconds
+0111.701 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0111.728 (0) Table wp_postmeta: Total expected rows (approximate): 3325
+0111.793 (0) Table wp_postmeta: Rows added in this batch (next record: 3884): 3297 (uncompressed bytes in this segment=196460) in 0.08 seconds
+0111.816 (0) Table wp_postmeta: finishing file(s) (2, 31.2 KB)
+0111.842 (0) Table wp_posts: Total expected rows (via COUNT): 371
+0111.846 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0111.909 (0) Table wp_posts: Rows added in this batch (next record: 403): 371 (uncompressed bytes in this segment=853380) in 0.08 seconds
+0111.930 (0) Table wp_posts: finishing file(s) (2, 101.4 KB)
+0111.949 (0) Table wp_term_relationships: Total expected rows (approximate): 172
+0111.961 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 170 (uncompressed bytes in this segment=3164) in 0.01 seconds
+0111.982 (0) Table wp_term_relationships: finishing file(s) (2, 0.8 KB)
+0112.009 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 34
+0112.014 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.023 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 97): 34 (uncompressed bytes in this segment=2235) in 0.02 seconds
+0112.042 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0112.065 (0) Table wp_termmeta: Total expected rows (via COUNT): 25
+0112.069 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.074 (0) Table wp_termmeta: Rows added in this batch (next record: 96): 25 (uncompressed bytes in this segment=1602) in 0.02 seconds
+0112.100 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0112.129 (0) Table wp_terms: Total expected rows (via COUNT): 34
+0112.134 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.144 (0) Table wp_terms: Rows added in this batch (next record: 97): 34 (uncompressed bytes in this segment=2018) in 0.02 seconds
+0112.166 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0112.190 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 33
+0112.205 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 35 (uncompressed bytes in this segment=964) in 0.02 seconds
+0112.227 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.5 KB)
+0112.263 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 1
+0112.271 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.284 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 293): 1 (uncompressed bytes in this segment=1715) in 0.04 seconds
+0112.309 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0112.328 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0112.341 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=665) in 0.02 seconds
+0112.361 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0112.381 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0112.389 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.398 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=856) in 0.02 seconds
+0112.418 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0112.447 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0112.460 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=815) in 0.03 seconds
+0112.483 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0112.515 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0112.520 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.02 seconds
+0112.540 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0112.560 (0) Table wp_social_users: Total expected rows (via COUNT): 0
+0112.573 (0) Table wp_social_users: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=817) in 0.02 seconds
+0112.589 (0) Table wp_social_users: finishing file(s) (2, 0.4 KB)
+0112.613 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 87
+0112.618 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.630 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 497): 87 (uncompressed bytes in this segment=17307) in 0.03 seconds
+0112.660 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.8 KB)
+0112.689 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 60
+0112.696 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0112.711 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 60): 60 (uncompressed bytes in this segment=29907) in 0.04 seconds
+0112.742 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.2 KB)
+0112.775 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0112.787 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1442) in 0.02 seconds
+0112.809 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0112.829 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0112.836 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=769) in 0.01 seconds
+0112.856 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0112.879 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0112.885 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1577) in 0.01 seconds
+0112.905 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0112.925 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0112.930 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=717) in 0.01 seconds
+0112.946 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0112.965 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0112.972 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1611) in 0.01 seconds
+0112.989 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0113.009 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0113.012 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.01 seconds
+0113.039 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0113.061 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0113.068 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1257) in 0.01 seconds
+0113.086 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0113.102 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0113.107 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=799) in 0.01 seconds
+0113.122 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0113.136 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0113.140 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1908) in 0.01 seconds
+0113.155 (0) Table wp_wc_orders: finishing file(s) (2, 0.6 KB)
+0113.171 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0113.178 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=795) in 0.01 seconds
+0113.193 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0113.208 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0113.217 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=884) in 0.01 seconds
+0113.231 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0113.246 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0113.250 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0113.260 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=932) in 0.02 seconds
+0113.274 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0113.290 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0113.297 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.01 seconds
+0113.310 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0113.323 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0113.327 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1340) in 0.01 seconds
+0113.340 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0113.358 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0113.361 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1178) in 0.01 seconds
+0113.378 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0113.394 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0113.398 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1049) in 0.01 seconds
+0113.411 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0113.428 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0113.432 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1626) in 0.01 seconds
+0113.445 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0113.465 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0113.470 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=788) in 0.01 seconds
+0113.488 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0113.501 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0113.505 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=783) in 0.01 seconds
+0113.517 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0113.529 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0113.533 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=907) in 0.01 seconds
+0113.544 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0113.559 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 2
+0113.563 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0113.572 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 18): 2 (uncompressed bytes in this segment=4069) in 0.02 seconds
+0113.593 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.1 KB)
+0113.604 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0113.612 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=910) in 0.01 seconds
+0113.626 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0113.641 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0113.648 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=797) in 0.01 seconds
+0113.662 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0113.674 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0113.677 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=655) in 0.01 seconds
+0113.690 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0113.708 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0113.712 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=892) in 0.01 seconds
+0113.728 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0113.740 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0113.747 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1411) in 0.01 seconds
+0113.764 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0113.782 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 174
+0113.786 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0113.814 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 224): 174 (uncompressed bytes in this segment=94151) in 0.04 seconds
+0113.833 (0) Table wp_yoast_indexable: finishing file(s) (2, 7.4 KB)
+0113.844 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 245
+0113.859 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 244 (uncompressed bytes in this segment=4922) in 0.02 seconds
+0113.872 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 1.1 KB)
+0113.887 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0113.890 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0113.899 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1287) in 0.02 seconds
+0113.912 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0113.928 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 1
+0113.931 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0113.938 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1016) in 0.01 seconds
+0113.953 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0113.972 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 847
+0114.009 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 870): 847 (uncompressed bytes in this segment=99259) in 0.04 seconds
+0114.025 (0) Table wp_yoast_seo_links: finishing file(s) (2, 8.9 KB)
+0114.029 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\SANG\Local Sites\envisia\app\public/wp-content/updraft/backup_2024-09-26-1250_envisia_6a7c9c02506d-db.gz (line 1925, C:\Users\SANG\Local Sites\envisia\app\public\wp-content\plugins\updraftplus\backup.php)
+0114.035 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_options.table.tmpr1634.gz (1/56/fopen): adding to final database dump
+0114.052 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_options.table.gz (2/56/fopen): adding to final database dump
+0114.056 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_users.table.tmpr5.gz (3/56/fopen): adding to final database dump
+0114.059 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_users.table.gz (4/56/fopen): adding to final database dump
+0114.063 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_usermeta.table.tmpr94.gz (5/56/fopen): adding to final database dump
+0114.067 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_usermeta.table.gz (6/56/fopen): adding to final database dump
+0114.071 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_actions.table.tmpr96.gz (7/56/fopen): adding to final database dump
+0114.074 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_actions.table.gz (8/56/fopen): adding to final database dump
+0114.077 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/56/fopen): adding to final database dump
+0114.080 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_claims.table.gz (10/56/fopen): adding to final database dump
+0114.084 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/56/fopen): adding to final database dump
+0114.090 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_groups.table.gz (12/56/fopen): adding to final database dump
+0114.094 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_logs.table.tmpr258.gz (13/56/fopen): adding to final database dump
+0114.098 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_actionscheduler_logs.table.gz (14/56/fopen): adding to final database dump
+0114.102 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_commentmeta.table.tmpr28.gz (15/56/fopen): adding to final database dump
+0114.106 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_commentmeta.table.gz (16/56/fopen): adding to final database dump
+0114.109 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_comments.table.tmpr5.gz (17/56/fopen): adding to final database dump
+0114.113 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_comments.table.gz (18/56/fopen): adding to final database dump
+0114.116 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_links.table.tmpr0.gz (19/56/fopen): adding to final database dump
+0114.123 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_links.table.gz (20/56/fopen): adding to final database dump
+0114.126 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_postmeta.table.tmpr3885.gz (21/56/fopen): adding to final database dump
+0114.130 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_postmeta.table.gz (22/56/fopen): adding to final database dump
+0114.134 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_posts.table.tmpr404.gz (23/56/fopen): adding to final database dump
+0114.141 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_posts.table.gz (24/56/fopen): adding to final database dump
+0114.144 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_term_relationships.table.tmpr100001.gz (25/56/fopen): adding to final database dump
+0114.147 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_term_relationships.table.gz (26/56/fopen): adding to final database dump
+0114.151 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_term_taxonomy.table.tmpr98.gz (27/56/fopen): adding to final database dump
+0114.155 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_term_taxonomy.table.gz (28/56/fopen): adding to final database dump
+0114.158 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_termmeta.table.tmpr97.gz (29/56/fopen): adding to final database dump
+0114.161 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_termmeta.table.gz (30/56/fopen): adding to final database dump
+0114.165 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_terms.table.tmpr98.gz (31/56/fopen): adding to final database dump
+0114.168 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_terms.table.gz (32/56/fopen): adding to final database dump
+0114.172 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/56/fopen): adding to final database dump
+0114.176 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_category_lookup.table.gz (34/56/fopen): adding to final database dump
+0114.179 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_meta_lookup.table.tmpr294.gz (35/56/fopen): adding to final database dump
+0114.183 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_meta_lookup.table.gz (36/56/fopen): adding to final database dump
+0114.187 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/56/fopen): adding to final database dump
+0114.191 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_reserved_stock.table.gz (38/56/fopen): adding to final database dump
+0114.194 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/56/fopen): adding to final database dump
+0114.197 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_tax_rate_classes.table.gz (40/56/fopen): adding to final database dump
+0114.201 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/56/fopen): adding to final database dump
+0114.204 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_order_itemmeta.table.gz (42/56/fopen): adding to final database dump
+0114.207 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/56/fopen): adding to final database dump
+0114.211 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/56/fopen): adding to final database dump
+0114.214 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_social_users.table.tmpr0.gz (45/56/fopen): adding to final database dump
+0114.217 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_social_users.table.gz (46/56/fopen): adding to final database dump
+0114.221 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_admin_note_actions.table.tmpr498.gz (47/56/fopen): adding to final database dump
+0114.225 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_admin_note_actions.table.gz (48/56/fopen): adding to final database dump
+0114.228 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_admin_notes.table.tmpr61.gz (49/56/fopen): adding to final database dump
+0114.232 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_admin_notes.table.gz (50/56/fopen): adding to final database dump
+0114.237 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_customer_lookup.table.tmpr0.gz (51/56/fopen): adding to final database dump
+0114.241 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_customer_lookup.table.gz (52/56/fopen): adding to final database dump
+0114.244 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_download_log.table.tmpr0.gz (53/56/fopen): adding to final database dump
+0114.248 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_download_log.table.gz (54/56/fopen): adding to final database dump
+0114.252 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_addresses.table.tmpr0.gz (55/56/fopen): adding to final database dump
+0114.256 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_addresses.table.gz (56/56/fopen): adding to final database dump
+0114.260 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (57/56/fopen): adding to final database dump
+0114.263 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_coupon_lookup.table.gz (58/56/fopen): adding to final database dump
+0114.268 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_operational_data.table.tmpr0.gz (59/56/fopen): adding to final database dump
+0114.272 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_operational_data.table.gz (60/56/fopen): adding to final database dump
+0114.275 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (61/56/fopen): adding to final database dump
+0114.279 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_product_lookup.table.gz (62/56/fopen): adding to final database dump
+0114.283 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_stats.table.tmpr0.gz (63/56/fopen): adding to final database dump
+0114.287 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_stats.table.gz (64/56/fopen): adding to final database dump
+0114.290 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (65/56/fopen): adding to final database dump
+0114.294 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_order_tax_lookup.table.gz (66/56/fopen): adding to final database dump
+0114.298 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_orders.table.tmpr0.gz (67/56/fopen): adding to final database dump
+0114.302 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_orders.table.gz (68/56/fopen): adding to final database dump
+0114.305 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_orders_meta.table.tmpr0.gz (69/56/fopen): adding to final database dump
+0114.309 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_orders_meta.table.gz (70/56/fopen): adding to final database dump
+0114.313 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (71/56/fopen): adding to final database dump
+0114.317 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_attributes_lookup.table.gz (72/56/fopen): adding to final database dump
+0114.321 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_download_directories.table.tmpr3.gz (73/56/fopen): adding to final database dump
+0114.324 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_product_download_directories.table.gz (74/56/fopen): adding to final database dump
+0114.327 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_rate_limits.table.tmpr0.gz (75/56/fopen): adding to final database dump
+0114.331 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_rate_limits.table.gz (76/56/fopen): adding to final database dump
+0114.335 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_webhooks.table.tmpr0.gz (77/56/fopen): adding to final database dump
+0114.338 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_wc_webhooks.table.gz (78/56/fopen): adding to final database dump
+0114.342 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (79/56/fopen): adding to final database dump
+0114.345 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_api_keys.table.gz (80/56/fopen): adding to final database dump
+0114.349 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (81/56/fopen): adding to final database dump
+0114.354 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_attribute_taxonomies.table.gz (82/56/fopen): adding to final database dump
+0114.358 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (83/56/fopen): adding to final database dump
+0114.362 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (84/56/fopen): adding to final database dump
+0114.366 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_log.table.tmpr0.gz (85/56/fopen): adding to final database dump
+0114.371 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_log.table.gz (86/56/fopen): adding to final database dump
+0114.375 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_order_items.table.tmpr0.gz (87/56/fopen): adding to final database dump
+0114.380 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_order_items.table.gz (88/56/fopen): adding to final database dump
+0114.384 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (89/56/fopen): adding to final database dump
+0114.388 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_payment_tokens.table.gz (90/56/fopen): adding to final database dump
+0114.391 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_sessions.table.tmpr19.gz (91/56/fopen): adding to final database dump
+0114.395 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_sessions.table.gz (92/56/fopen): adding to final database dump
+0114.398 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (93/56/fopen): adding to final database dump
+0114.402 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zone_locations.table.gz (94/56/fopen): adding to final database dump
+0114.405 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (95/56/fopen): adding to final database dump
+0114.409 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zone_methods.table.gz (96/56/fopen): adding to final database dump
+0114.412 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (97/56/fopen): adding to final database dump
+0114.416 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_shipping_zones.table.gz (98/56/fopen): adding to final database dump
+0114.420 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (99/56/fopen): adding to final database dump
+0114.426 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_tax_rate_locations.table.gz (100/56/fopen): adding to final database dump
+0114.436 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (101/56/fopen): adding to final database dump
+0114.440 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_woocommerce_tax_rates.table.gz (102/56/fopen): adding to final database dump
+0114.444 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_indexable.table.tmpr225.gz (103/56/fopen): adding to final database dump
+0114.449 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_indexable.table.gz (104/56/fopen): adding to final database dump
+0114.453 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (105/56/fopen): adding to final database dump
+0114.457 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_indexable_hierarchy.table.gz (106/56/fopen): adding to final database dump
+0114.460 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_migrations.table.tmpr25.gz (107/56/fopen): adding to final database dump
+0114.464 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_migrations.table.gz (108/56/fopen): adding to final database dump
+0114.468 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_primary_term.table.tmpr2.gz (109/56/fopen): adding to final database dump
+0114.472 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_primary_term.table.gz (110/56/fopen): adding to final database dump
+0114.475 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_seo_links.table.tmpr871.gz (111/56/fopen): adding to final database dump
+0114.479 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db-table-wp_yoast_seo_links.table.gz (112/56/fopen): adding to final database dump
+0114.495 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db.gz: finished writing out complete database file (575.1 KB)
+0114.526 (0) Total database tables backed up: 56 (backup_2024-09-26-1250_envisia_6a7c9c02506d-db.gz, size: 589037, sha1: dcd7df2d726c3639068d5a226b2acb1dbcd4d609, sha256: 5822e6bb7d3c6548f13310735ccbd7b84e0e30689e43749ea1d7f8d6a1df0c4b)
+0114.541 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-plugins.zip: plugins: This file has already been successfully uploaded
+0114.544 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-themes.zip: themes: This file has already been successfully uploaded
+0114.548 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-uploads.zip: uploads: This file has already been successfully uploaded
+0114.552 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-others.zip: others: This file has already been successfully uploaded
+0114.555 (0) backup_2024-09-26-1250_envisia_6a7c9c02506d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0114.558 (0) Saving backup history. Total backup size: 57.9 MB
+0114.565 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0114.580 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0114.588 (0) No remote despatch: user chose no remote backup service
+0114.592 (0) Recording as successfully uploaded: backup_2024-09-26-1250_envisia_6a7c9c02506d-db.gz
+0114.602 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0114.605 (0) Number of backup sets in history: 1; groups (db): 1
+0114.608 (0) Examining (for databases) backup set with group_id=0, nonce=6a7c9c02506d, datestamp=1727355042 (Sep 26 2024 12:50:42)
+0114.612 (0) This backup set is the backup set just made, so will not be deleted.
+0114.612 (0) Number of backup sets in history: 1; groups (files): 1
+0114.615 (0) Examining (for files) backup set with nonce=6a7c9c02506d, datestamp=1727355042 (Sep 26 2024 12:50:42)
+0114.615 (0) This backup set is the backup set just made, so will not be deleted.
+0114.619 (0) This backup set is the backup set just made, so will not be deleted.
+0114.619 (0) This backup set is the backup set just made, so will not be deleted.
+0114.620 (0) This backup set is the backup set just made, so will not be deleted.
+0114.620 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0114.623 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0114.630 (0) Resume backup (6a7c9c02506d, 0): finish run
+0114.641 (0) Decremented the semaphore (fd) by 1
+0114.647 (0) Semaphore (fd) unlocked
+0114.651 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0114.662 (0) No email will/can be sent - the user has not configured an email address.
+0114.665 (0) The backup succeeded and is now complete

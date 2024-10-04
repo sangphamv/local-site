@@ -1,0 +1,210 @@
+[03-Oct-2024 05:10:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php(208): sprintf('%1$s installed ...', 'Contact Form 7')
+#1 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3638): Bulk_Upgrader_Skin->after('Contact Form 7')
+#2 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-wp-upgrader.php(930): TGMPA_Bulk_Installer_Skin->after()
+#3 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3258): WP_Upgrader->run(Array)
+#4 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3371): TGMPA_Bulk_Installer->run(Array)
+#5 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(2977): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(743): TGMPA_List_Table->process_bulk_actions()
+#7 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#11 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\SANG\\L...')
+#12 {main}
+  thrown in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php on line 208
+[03-Oct-2024 05:10:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php(208): sprintf('%1$s installed ...', 'Nextend Social ...')
+#1 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3638): Bulk_Upgrader_Skin->after('Nextend Social ...')
+#2 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-wp-upgrader.php(930): TGMPA_Bulk_Installer_Skin->after()
+#3 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3258): WP_Upgrader->run(Array)
+#4 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3371): TGMPA_Bulk_Installer->run(Array)
+#5 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(2977): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(743): TGMPA_List_Table->process_bulk_actions()
+#7 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#11 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\SANG\\L...')
+#12 {main}
+  thrown in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php on line 208
+[03-Oct-2024 05:10:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php(208): sprintf('%1$s installed ...', 'WooCommerce')
+#1 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3638): Bulk_Upgrader_Skin->after('WooCommerce')
+#2 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-wp-upgrader.php(930): TGMPA_Bulk_Installer_Skin->after()
+#3 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3258): WP_Upgrader->run(Array)
+#4 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(3371): TGMPA_Bulk_Installer->run(Array)
+#5 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(2977): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(743): TGMPA_List_Table->process_bulk_actions()
+#7 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#11 C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\SANG\\L...')
+#12 {main}
+  thrown in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-admin\includes\class-bulk-upgrader-skin.php on line 208
+[03-Oct-2024 05:11:20 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:20 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:20 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:22 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:23 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:11:24 UTC] PHP Warning:  Undefined array key "post_parent" in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1226
+[03-Oct-2024 05:12:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\SANG\Local Sites\lighting-solution\app\public\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1751
+[03-Oct-2024 06:01:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Oct-2024 08:41:46 UTC] WordPress database error Duplicate entry '357-66' for key 'PRIMARY' for query INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`) VALUES (357, 66) made by wp_nav_menu_update_menu_items, wp_update_nav_menu_item, wp_set_object_terms
+[03-Oct-2024 08:41:46 UTC] WordPress database error Duplicate entry '358-66' for key 'PRIMARY' for query INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`) VALUES (358, 66) made by wp_nav_menu_update_menu_items, wp_update_nav_menu_item, wp_set_object_terms
+[04-Oct-2024 00:37:40 UTC] [Loco.warning] "No core translation files are installed for this language" in src/admin/bundle/LocaleController.php:129
+[04-Oct-2024 00:42:24 UTC] [Loco.warning] "No core translation files are installed for this language" in src/admin/bundle/LocaleController.php:129
